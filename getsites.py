@@ -19,4 +19,4 @@ for f in sitesList:
            # print(s)
             if not s: break
 
-print("Total sites : ", count/2)
+#print("Total sites : ", count/2)
